@@ -6,16 +6,16 @@ The first line of input contains an integer T denoting the number of test cases.
 The first line of each test case contains a single integer N denoting the size of array.
 The second line contains N space-separated integers A1, A2, ..., AN denoting the elements of the array.
 ```
-**Output:**
+Output:
 Print all the leaders.
 
-**Constraints:**
+Constraints:
 1 <= T <= 100
 1 <= N <= 107
 0 <= Ai <= 107
 
-**Example:**
-***Input:***
+Example:
+Input:
 3
 6
 16 17 4 3 5 2
@@ -23,7 +23,7 @@ Print all the leaders.
 1 2 3 4 0
 5
 7 4 5 7 3
-***Output:***
+Output:
 17 5 2
 4 0
 7 7 3
